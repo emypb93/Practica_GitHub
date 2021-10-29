@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 40px 100px 40px 100px;
+    line-height: 30px;
+}
+
+.caja1{
+    background-color: aqua;
+    margin: 0px 60px 0px 60px;
+    border-radius: 40px;
+}
+
+.caja2{
+    background-color:lightgreen;
+    margin: 30px 60px 0px 60px;
+    border-radius: 40px;
+}
